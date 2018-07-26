@@ -1,0 +1,3 @@
+D:\QQ\QQ接收文件\563547446\FileRecv\MobileFile\打印\obj\x86\Debug\Interop.AutoCAD.dll
+D:\QQ\QQ接收文件\563547446\FileRecv\MobileFile\打印\obj\x86\Debug\Interop.AXDBLib.dll
+D:\QQ\QQ接收文件\563547446\FileRecv\MobileFile\打印\obj\x86\Debug\autocaddayin.csproj.ResolveComReference.cache

@@ -1,0 +1,11 @@
+G:\系统研发\CAD二次\test\autocaddayin\bin\Release\autocaddayin.exe
+G:\系统研发\CAD二次\test\autocaddayin\bin\Release\autocaddayin.pdb
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\Interop.AutoCAD.dll
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\Interop.AXDBLib.dll
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.csproj.ResolveComReference.cache
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.Form1.resources
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.Properties.Resources.resources
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.csproj.GenerateResource.Cache
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.exe
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.pdb
+G:\系统研发\CAD二次\test\autocaddayin\obj\x86\Release\autocaddayin.csprojResolveAssemblyReference.cache
